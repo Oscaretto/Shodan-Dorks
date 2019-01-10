@@ -38,6 +38,10 @@ Find devices based on open ports.<br/>
 Find devices before or after between a given time.<br/>
 `apache after:22/02/2009 before:14/3/2010`
 
+### has_screenshot
+Find devices that have an image stream.<br/>
+`has_screenshot:true`
+
 ### YOU CAN ALSO COMBINE FILTERS TO MAKE INTO ADVANCED FILTERS FOR QUICK RECON.
 
 *Please create a pull request if you want to contribute.*
